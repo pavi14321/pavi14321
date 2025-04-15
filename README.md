@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **madivalp67@gmail.com**
 
-- 📄 Know about my experiences [https://praveenshivashankarportfolio.netlify.app/imgs/newresumemy.pdf](https://praveenshivashankarportfolio.netlify.app/imgs/newresumemy.pdf)
+- 📄 Know about my experiences [https://praveenshivashankarportfolio.netlify.app/imgs/newresumemy.pdf](https://praveenshivashankarportfolio.netlify.app/updatedresume.pdf)
 
 - ⚡ Fun fact **I think i am funny**
 
