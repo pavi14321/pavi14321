@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen S</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **E-Comers java project**
-
+- 🔭 I’m currently working on **AI **
 - 🌱 I’m currently learning **Java Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://praveenshivashankarportfolio.netlify.app/](https://praveenshivashankarportfolio.netlify.app/)
