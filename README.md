@@ -16,5 +16,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavi14321&show_icons=true&locale=en&layout=compact" alt="pavi14321" /></p>
 
 
-make this github profile page animated and do one change in place of portpoli link replace new portpolio
-https://praveenportfolio-omega.vercel.app/
+
