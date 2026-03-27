@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working on **AI Development and E-Commerce**
-- 🌱 Currently working at **Treezenterprise Software Solutions**
+- 🌱 Currently working at **Treez Enterprises**
 - 👨‍💻 All my projects are at [**praveenportfolio-omega.vercel.app**](https://praveenportfolio-omega.vercel.app/)
 - 💬 Ask me about **Java, SQL, JDBC, HTML5, CSS3, JavaScript, Shopify**
 - 📫 Reach me at **madivalp67@gmail.com**
