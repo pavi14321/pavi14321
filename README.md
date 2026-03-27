@@ -21,7 +21,6 @@
 - 👨‍💻 All my projects are at [**praveenportfolio-omega.vercel.app**](https://praveenportfolio-omega.vercel.app/)
 - 💬 Ask me about **Java, SQL, JDBC, HTML5, CSS3, JavaScript, Shopify**
 - 📫 Reach me at **madivalp67@gmail.com  / praveenshivashankar58@gmail.com**
-- 📄 My resume: [**View Here**](https://praveenportfolio-omega.vercel.app/updatedresume.pdf)
 - ⚡ Fun fact: **I think I am funny 😄**
 
 ---
